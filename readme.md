@@ -2,5 +2,5 @@
 
 GraphQL quest n°2
 
-![Search result]()
-![Add course]()
+![Search result](https://github.com/wild-e/gql-server/blob/master/searchResult.png)
+![Add course](https://github.com/wild-e/gql-server/blob/master/addCourse.png)
